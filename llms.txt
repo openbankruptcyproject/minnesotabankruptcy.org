@@ -1,7 +1,7 @@
-# Minnesota Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Minnesota Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
-> Free Minnesota bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Minnesota exemptions, filing costs, means test, and what to expe...
+> Free Minnesota bankruptcy guide for 2026.
 
 ## About
 minnesotabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -32,12 +32,12 @@ minnesotabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Can I Keep My Jewelry in Minnesota Bankruptcy?: https://minnesotabankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Minnesota?: https://minnesotabankruptcy.org/eviction.html
 - Minnesota Bankruptcy Exemptions - What You Can Keep: https://minnesotabankruptcy.org/exemptions.html
-- Minnesota Bankruptcy FAQ - 15 Common Questions Answered: https://minnesotabankruptcy.org/faq.html
+- Minnesota Bankruptcy FAQ [2026]: D. Minn. Procedure, MN Stat 550.37 Exemptions, and 15 Common Questions: https://minnesotabankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Minnesota: https://minnesotabankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Minnesota: https://minnesotabankruptcy.org/foreclosure.html
 - Minnesota Bankruptcy Glossary: https://minnesotabankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Minnesota: https://minnesotabankruptcy.org/income-limits.html
-- Minnesota Bankruptcy - Chapter 7 & 13 Filing Guide: https://minnesotabankruptcy.org/
+- Minnesota Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://minnesotabankruptcy.org/
 - Judgments and Bankruptcy in Minnesota: https://minnesotabankruptcy.org/judgments.html
 - Keep Your Car in Minnesota Bankruptcy: https://minnesotabankruptcy.org/keep-your-car.html
 - Keep Your House in Minnesota Bankruptcy: https://minnesotabankruptcy.org/keep-your-house.html
@@ -71,7 +71,7 @@ minnesotabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Second Mortgages and Bankruptcy in Minnesota: https://minnesotabankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Minnesota - Will I Lose My Clearance?: https://minnesotabankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Minnesota: https://minnesotabankruptcy.org/small-business.html
-- Minnesota Bankruptcy Statistics - Filing Data and Trends: https://minnesotabankruptcy.org/statistics.html
+- Minnesota Bankruptcy Statistics [2026]: D. Minn. Filing Volume, Dismissal Rates, and Year-Over-Year Trends: https://minnesotabankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Minnesota: https://minnesotabankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Minnesota: https://minnesotabankruptcy.org/student-loans.html
 - Surrendering Your Car in Minnesota Bankruptcy - Process, Deficiency, Options: https://minnesotabankruptcy.org/surrender-car.html
@@ -82,6 +82,7 @@ minnesotabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Can I Travel During Chapter 13 in Minnesota?: https://minnesotabankruptcy.org/travel-chapter-13.html
 - Wage Garnishment and Bankruptcy in Minnesota: https://minnesotabankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://minnesotabankruptcy.org/privacy.html
+- About minnesotabankruptcy.org: https://minnesotabankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
